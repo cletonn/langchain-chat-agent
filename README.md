@@ -28,7 +28,7 @@ This project provides a generic chat application that leverages LangChain's even
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/cletonn/langchain-chat-agent.git
-    cd generic-chat-langchain
+    cd langchain-chat-agent
     ```
 
 2. **Install dependencies**:
