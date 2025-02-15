@@ -14,7 +14,7 @@ This project provides a generic chat application that leverages LangChain's even
 
 - **LangChain**: For creating and managing AI agents and event processing.
 - **Pydantic**: For data validation and settings management.
-- **Uvicorn**: For running the ASGI server.
+- **Streamlit**: For running the chat ui.
 
 ### Getting Started
 
