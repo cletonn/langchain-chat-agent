@@ -13,15 +13,8 @@ This project provides a generic chat application that leverages LangChain's even
 ### Technologies Used
 
 - **LangChain**: For creating and managing AI agents and event processing.
-- **FastAPI**: For building the backend API.
 - **Pydantic**: For data validation and settings management.
 - **Uvicorn**: For running the ASGI server.
-- **Pillow**: For image processing tasks.
-- **Requests**: For making HTTP requests.
-- **Python-Dotenv**: For managing environment variables.
-- **PyPDF and PikePDF**: For PDF processing.
-- **Python-JSON-Logger**: For structured logging.
-- **EnvYAML**: For managing configuration files.
 
 ### Getting Started
 
