@@ -38,6 +38,3 @@ This project provides a generic chat application that leverages LangChain's even
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this description to better fit your project's specifics.
